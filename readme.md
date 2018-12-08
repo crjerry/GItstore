@@ -5,3 +5,4 @@ Git is free software distributed under the GPL
 Git has a mutable index called stage.
 Git tracks changes of files.
 this change is version one.
+this change is version two.
